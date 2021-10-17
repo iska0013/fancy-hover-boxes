@@ -14,6 +14,11 @@ section {
   grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
 }
 
+img {
+  display: block;
+  width: 100%;
+}
+
 .hover-box {
   position: relative;
   overflow: hidden;
